@@ -1,1 +1,18 @@
 # Polymarket Contract Security
+
+All deployments are on Polygon mainnet.
+
+| Contract        | Audit | Deployment
+| ----------- | ----------- | ----------- |
+| [Proxy Factory](https://github.com/polymarket/proxy-factories)   | [ChainSecurity](./audit-reports/cs_proxy_wallet_factories.pdf)  | [0xaB45c5A4B0c941a2F231C04C3f49182e1A254052](https://polygonscan.com/address/0xaB45c5A4B0c941a2F231C04C3f49182e1A254052)
+| [Safe Factory](https://github.com/polymarket/proxy-factories)   | [ChainSecurity](./audit-reports/cs_proxy_wallet_factories.pdf)  | [0xaacFeEa03eb1561C4e67d661e40682Bd20E3541b](https://polygonscan.com/address/0xaacFeEa03eb1561C4e67d661e40682Bd20E3541b)
+| [Conditional Tokens](https://github.com/gnosis/conditional-tokens-contracts)   | [ChainSecurity](./audit-reports/cs_conditional_tokens.pdf)  | [0x4d97dcd97ec945f40cf65f87097ace5ea0476045](https://polygonscan.com/address/0x4d97dcd97ec945f40cf65f87097ace5ea0476045)
+| [CtfExchange](https://github.com/polymarket/ctf-exchange)   | [ChainSecurity](./audit-reports/cs_ctf_exchange.pdf)  | [0x4bfb41d5b3570defd03c39a9a4d8de6bd8b8982e](https://polygonscan.com/address/0x4bfb41d5b3570defd03c39a9a4d8de6bd8b8982e)
+| [NegRisk Adapter](https://github.com/polymarket/neg-risk-ctf-adapter)   | [ChainSecurity](./audit-reports/cs_neg_risk_adapter.pdf), [OpenZeppelin](./audit-reports/oz_neg_risk_adapter.pdf)   | [0xd91E80cF2E7be2e162c6513ceD06f1dD0dA35296](https://polygonscan.com/address/0xd91E80cF2E7be2e162c6513ceD06f1dD0dA35296)
+| [NegRisk Operator](https://github.com/polymarket/neg-risk-ctf-adapter)   | [ChainSecurity](./audit-reports/cs_neg_risk_adapter.pdf), [OpenZeppelin](./audit-reports/oz_neg_risk_adapter.pdf)   | [0x71523d0f655B41E805Cec45b17163f528B59B820](https://polygonscan.com/address/0x71523d0f655B41E805Cec45b17163f528B59B820)
+| [NegRisk Wrapped Collateral](https://github.com/polymarket/neg-risk-ctf-adapter)   | [ChainSecurity](./audit-reports/cs_neg_risk_adapter.pdf), [OpenZeppelin](./audit-reports/oz_neg_risk_adapter.pdf)   | [0x3A3BD7bb9528E159577F7C2e685CC81A765002E2](https://polygonscan.com/address/0x3A3BD7bb9528E159577F7C2e685CC81A765002E2)
+| [NegRisk CtfExchange](https://github.com/polymarket/neg-risk-ctf-adapter)   | [ChainSecurity](./audit-reports/cs_neg_risk_adapter.pdf), [OpenZeppelin](./audit-reports/oz_neg_risk_adapter.pdf)   | [0xC5d563A36AE78145C45a50134d48A1215220f80a](https://polygonscan.com/address/0xC5d563A36AE78145C45a50134d48A1215220f80a)
+| [NegRisk FeeModule](https://github.com/polymarket/neg-risk-ctf-adapter)   | [ChainSecurity](./audit-reports/cs_neg_risk_adapter.pdf), [OpenZeppelin](./audit-reports/oz_neg_risk_adapter.pdf)  | [0x78769D50Be1763ed1CA0D5E878D93f05aabff29e](https://polygonscan.com/address/0x78769D50Be1763ed1CA0D5E878D93f05aabff29e)
+| [NegRisk UmaCtfAdapter](https://github.com/polymarket/neg-risk-ctf-adapter)   | [ChainSecurity](./audit-reports/cs_neg_risk_adapter.pdf), [OpenZeppelin](./audit-reports/Polymarket%20Multi-Outcome%20Markets%20Audit.pdf) | [0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d](https://polygonscan.com/address/0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d)
+| [UmaCtfAdapter](https://github.com/polymarket/uma-ctf-adapter)   | [ChainSecurity](./audit-reports/oz_uma_ctf_adapter.pdf)  | [0x6A9D222616C90FcA5754cd1333cFD9b7fb6a4F74](https://polygonscan.com/address/0x6A9D222616C90FcA5754cd1333cFD9b7fb6a4F74)
+| [FeeModule](https://github.com/polymarket/exchange-fee-module)   |  | [0x56C79347e95530c01A2FC76E732f9566dA16E113](https://polygonscan.com/address/0x56C79347e95530c01A2FC76E732f9566dA16E113)
