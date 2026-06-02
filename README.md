@@ -2,6 +2,8 @@
 
 All deployments are on Polygon mainnet.
 
+## V1 Contracts
+
 | Contract        | Audit | Deployment
 | ----------- | ----------- | ----------- |
 | [Proxy Factory](https://github.com/polymarket/proxy-factories)   | [ChainSecurity](./audit-reports/cs_proxy_wallet_factories.pdf)  | [0xaB45c5A4B0c941a2F231C04C3f49182e1A254052](https://polygonscan.com/address/0xaB45c5A4B0c941a2F231C04C3f49182e1A254052)
@@ -16,3 +18,23 @@ All deployments are on Polygon mainnet.
 | [NegRisk UmaCtfAdapter](https://github.com/polymarket/neg-risk-ctf-adapter)   | [ChainSecurity](./audit-reports/cs_neg_risk_adapter.pdf), [OpenZeppelin](./audit-reports/Polymarket%20Multi-Outcome%20Markets%20Audit.pdf) | [0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d](https://polygonscan.com/address/0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d)
 | [UmaCtfAdapter](https://github.com/polymarket/uma-ctf-adapter)   | [ChainSecurity](./audit-reports/oz_uma_ctf_adapter.pdf)  | [0x6A9D222616C90FcA5754cd1333cFD9b7fb6a4F74](https://polygonscan.com/address/0x6A9D222616C90FcA5754cd1333cFD9b7fb6a4F74)
 | [FeeModule](https://github.com/polymarket/exchange-fee-module)   |  | [0x56C79347e95530c01A2FC76E732f9566dA16E113](https://polygonscan.com/address/0x56C79347e95530c01A2FC76E732f9566dA16E113)
+
+## Polymarket V2
+
+| Contract | Audit | Deployment |
+| ----------- | ----------- | ----------- |
+| [Exchange](https://github.com/Polymarket/polymarket-v2) | [Cantina](./audit-reports/Polymarket%20V2%20-%20Cantina%20-%20April%202026.pdf), [Certora](./audit-reports/Polymarket%20V2%20-%20Certora%20-%20April%202026.pdf), [Quantstamp](./audit-reports/Polymarket%20V2%20-%20Quantstamp%20-%20May%202026.pdf), [Certora (additional)](./audit-reports/Polymarket%20V2%20Additional%20changes%20-%20Certora%20-%20May%202026.pdf) | [0xe3333700cA9d93003F00f0F71f8515005F6c00Aa](https://polygonscan.com/address/0xe3333700cA9d93003F00f0F71f8515005F6c00Aa) |
+| [Collateral Token](https://github.com/Polymarket/polymarket-v2) | [Cantina](./audit-reports/Polymarket%20V2%20-%20Cantina%20-%20April%202026.pdf), [Certora](./audit-reports/Polymarket%20V2%20-%20Certora%20-%20April%202026.pdf), [Quantstamp](./audit-reports/Polymarket%20V2%20-%20Quantstamp%20-%20May%202026.pdf) | [0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB](https://polygonscan.com/address/0xC011a7E12a19f7B1f670d46F03B03f3342E82DFB) |
+| [Position Manager](https://github.com/Polymarket/polymarket-v2) | [Cantina](./audit-reports/Polymarket%20V2%20-%20Cantina%20-%20April%202026.pdf), [Certora](./audit-reports/Polymarket%20V2%20-%20Certora%20-%20April%202026.pdf), [Quantstamp](./audit-reports/Polymarket%20V2%20-%20Quantstamp%20-%20May%202026.pdf) | [0x006F54F7f9A22e0000CC2AB60031000000ae9fEF](https://polygonscan.com/address/0x006F54F7f9A22e0000CC2AB60031000000ae9fEF) |
+| [Router](https://github.com/Polymarket/polymarket-v2) | [Cantina](./audit-reports/Polymarket%20V2%20-%20Cantina%20-%20April%202026.pdf), [Certora](./audit-reports/Polymarket%20V2%20-%20Certora%20-%20April%202026.pdf), [Quantstamp](./audit-reports/Polymarket%20V2%20-%20Quantstamp%20-%20May%202026.pdf) | [0x12121212006e4CD160D18e3f00711DA5c3372600](https://polygonscan.com/address/0x12121212006e4CD160D18e3f00711DA5c3372600) |
+| [Binary Module](https://github.com/Polymarket/polymarket-v2) | [Cantina](./audit-reports/Polymarket%20V2%20-%20Cantina%20-%20April%202026.pdf), [Certora](./audit-reports/Polymarket%20V2%20-%20Certora%20-%20April%202026.pdf), [Quantstamp](./audit-reports/Polymarket%20V2%20-%20Quantstamp%20-%20May%202026.pdf) | [0x1000008dD9001B968442c1000017eaE6E0dA00Ba](https://polygonscan.com/address/0x1000008dD9001B968442c1000017eaE6E0dA00Ba) |
+| [NegRisk Module](https://github.com/Polymarket/polymarket-v2) | [Cantina](./audit-reports/Polymarket%20V2%20-%20Cantina%20-%20April%202026.pdf), [Certora](./audit-reports/Polymarket%20V2%20-%20Certora%20-%20April%202026.pdf), [Quantstamp](./audit-reports/Polymarket%20V2%20-%20Quantstamp%20-%20May%202026.pdf) | [0x200000900045e3B6259600682756002200028933](https://polygonscan.com/address/0x200000900045e3B6259600682756002200028933) |
+| [Combinatorial Module](https://github.com/Polymarket/polymarket-v2) | [Cantina](./audit-reports/Combinatorial%20Module%20-%20Cantina%20-%20May%202026.pdf), [Certora](./audit-reports/Combinatorial%20Module%20-%20Certora%20-%20May%202026.pdf), [Quantstamp](./audit-reports/Combinatorial%20Module%20-%20Quantstamp%20-%20May%202026.pdf) | [0x30000034706C7d8e12009DAB006Be20000c031A8](https://polygonscan.com/address/0x30000034706C7d8e12009DAB006Be20000c031A8) |
+| [Auto Redeemer](https://github.com/Polymarket/ctf-auto-redeem) | [Cantina](./audit-reports/Polymarket%20V2%20-%20Cantina%20-%20April%202026.pdf), [Certora](./audit-reports/Polymarket%20V2%20-%20Certora%20-%20April%202026.pdf), [Quantstamp](./audit-reports/Polymarket%20V2%20-%20Quantstamp%20-%20May%202026.pdf) | [0xa1200000d0002264C9a1698e001292D00E1b00af](https://polygonscan.com/address/0xa1200000d0002264C9a1698e001292D00E1b00af) |
+
+## Deposit Wallet
+
+| Contract | Audit | Deployment |
+| ----------- | ----------- | ----------- |
+| [Deposit Wallet](https://github.com/Polymarket/deposit-wallet) | [Certora](./audit-reports/DepositWallet%20-%20Certora%20-%20March%202026.pdf), [Zellic](./audit-reports/DepositWallet%20-%20Zellic%20-%20March%202026.pdf), [Cantina (Beacon Upgrade)](./audit-reports/DepositWallet%20-%20Cantina%20-%20Beacon%20Upgrade%20-%20May%202026.pdf), [Certora (Beacon Upgrade)](./audit-reports/DepositWallet%20-%20Certora%20-%20Beacon%20Upgrade%20-%20May%202026.pdf) | [0x8d3ae0AfbACfDe6f75571f78899C1B45D597dD78](https://polygonscan.com/address/0x8d3ae0AfbACfDe6f75571f78899C1B45D597dD78) |
+| [Deposit Wallet Factory](https://github.com/Polymarket/deposit-wallet) | [Certora](./audit-reports/DepositWallet%20-%20Certora%20-%20March%202026.pdf), [Zellic](./audit-reports/DepositWallet%20-%20Zellic%20-%20March%202026.pdf), [Cantina (Beacon Upgrade)](./audit-reports/DepositWallet%20-%20Cantina%20-%20Beacon%20Upgrade%20-%20May%202026.pdf), [Certora (Beacon Upgrade)](./audit-reports/DepositWallet%20-%20Certora%20-%20Beacon%20Upgrade%20-%20May%202026.pdf) | [0x00000000000Fb5C9ADea0298D729A0CB3823Cc07](https://polygonscan.com/address/0x00000000000Fb5C9ADea0298D729A0CB3823Cc07) |
