@@ -43,4 +43,4 @@ All deployments are on Polygon mainnet.
 
 | Contract | Audit | Deployment |
 | ----------- | ----------- | ----------- |
-| [Perps](https://github.com/Polymarket/perps) | [Quantstamp](./audit-reports/perps_quantstamp_20260408_20260410.pdf), [Cantina](./audit-reports/perps_cantina_20260424_20260501.pdf), [Certora](./audit-reports/perps_certora_20260427_20260428.pdf) | [0xdca4af75705dbb50f62437045aff9921947917d2](https://polygonscan.com/address/0xdca4af75705dbb50f62437045aff9921947917d2) |
+| [Perps](https://github.com/Polymarket/perpetuals-contract) | [Quantstamp](./audit-reports/perps_quantstamp_20260408_20260410.pdf), [Cantina](./audit-reports/perps_cantina_20260424_20260501.pdf), [Certora](./audit-reports/perps_certora_20260427_20260428.pdf) | [0xdca4af75705dbb50f62437045aff9921947917d2](https://polygonscan.com/address/0xdca4af75705dbb50f62437045aff9921947917d2) |
