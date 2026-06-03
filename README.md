@@ -38,3 +38,9 @@ All deployments are on Polygon mainnet.
 | ----------- | ----------- | ----------- |
 | [Deposit Wallet](https://github.com/Polymarket/deposit-wallet) | [Certora](./audit-reports/DepositWallet%20-%20Certora%20-%20March%202026.pdf), [Zellic](./audit-reports/DepositWallet%20-%20Zellic%20-%20March%202026.pdf), [Cantina (Beacon Upgrade)](./audit-reports/DepositWallet%20-%20Cantina%20-%20Beacon%20Upgrade%20-%20May%202026.pdf), [Certora (Beacon Upgrade)](./audit-reports/DepositWallet%20-%20Certora%20-%20Beacon%20Upgrade%20-%20May%202026.pdf) | [0x8d3ae0AfbACfDe6f75571f78899C1B45D597dD78](https://polygonscan.com/address/0x8d3ae0AfbACfDe6f75571f78899C1B45D597dD78) |
 | [Deposit Wallet Factory](https://github.com/Polymarket/deposit-wallet) | [Certora](./audit-reports/DepositWallet%20-%20Certora%20-%20March%202026.pdf), [Zellic](./audit-reports/DepositWallet%20-%20Zellic%20-%20March%202026.pdf), [Cantina (Beacon Upgrade)](./audit-reports/DepositWallet%20-%20Cantina%20-%20Beacon%20Upgrade%20-%20May%202026.pdf), [Certora (Beacon Upgrade)](./audit-reports/DepositWallet%20-%20Certora%20-%20Beacon%20Upgrade%20-%20May%202026.pdf) | [0x00000000000Fb5C9ADea0298D729A0CB3823Cc07](https://polygonscan.com/address/0x00000000000Fb5C9ADea0298D729A0CB3823Cc07) |
+
+## Perps
+
+| Contract | Audit | Deployment |
+| ----------- | ----------- | ----------- |
+| [Perps](https://github.com/Polymarket/perps) | [Quantstamp](./audit-reports/perps_quantstamp_20260408_20260410.pdf), [Cantina](./audit-reports/perps_cantina_20260424_20260501.pdf), [Certora](./audit-reports/perps_certora_20260427_20260428.pdf) | [0xdca4af75705dbb50f62437045aff9921947917d2](https://polygonscan.com/address/0xdca4af75705dbb50f62437045aff9921947917d2) |
